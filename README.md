@@ -1,5 +1,7 @@
 # prueba
 
+Para ejecutar el código se debe ejecutar python manage.py runserver para que quede local
+
 # 1. Un punto final para proporcionar una búsqueda dentro de las pistas (al menos por nombre, pero es abierto a cualquier sugerencia)
 
 Se crea un punto final para búsqueda por nombre mediante método GET, llamado getTracksName
